@@ -1,0 +1,71 @@
+
+                                      ARENA Simulation Results
+                                       DELL - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Bank Agency counters simulation                             Run execution date : 4/21/2025
+Analyst: Rindra Mbolamananamalala                                    Model revision date: 4/21/2025
+
+Replication ended at time      : 9600.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Customer.VATime                             16.268     .87322     9.3733     52.365       1425    
+Customer.NVATime                            .00000     .00000     .00000     .00000       1425    
+Customer.WaitTime                           1.9963     .92964     .00000     36.146       1425    
+Customer.TranTime                           .00000     .00000     .00000     .00000       1425    
+Customer.OtherTime                          .00000     .00000     .00000     .00000       1425    
+Customer.TotalTime                          18.264     1.5028     9.3733     78.961       1425    
+Customer.VACost                             32.536     1.7464     18.746     104.73       1425    
+Customer.NVACost                            .00000     .00000     .00000     .00000       1425    
+Customer.WaitCost                           .00000     .00000     .00000     .00000       1425    
+Customer.TranCost                           .00000     .00000     .00000     .00000       1425    
+Customer.OtherCost                          .00000     .00000     .00000     .00000       1425    
+Customer.TotalCost                          32.536     1.7464     18.746     104.73       1425    
+CounterService.Queue.WaitingTime            1.9935     .94313     .00000     36.146       1427    
+CounterService.Queue.WaitingCost            .00000     .00000     .00000     .00000       1427    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                2.7121     .31302     .00000     13.000     2.0000    
+Counter.NumberBusy                          2.4157     .17119     .00000     4.0000     2.0000    
+Counter.NumberScheduled                     4.0000     (Insuf)    4.0000     4.0000     4.0000    
+Counter.Utilization                         .60395     .04280     .00000     1.0000     .50000    
+CounterService.Queue.NumberInQueue          .29634     .16093     .00000     9.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           1427.0    
+Customer.NumberOut                          1425.0    
+Counter.NumberSeized                        1427.0    
+Counter.ScheduledUtilization                .60395    
+Counter.BusyCost                            46364.    
+Counter.IdleCost                            30416.    
+Counter.UsageCost                           .00000    
+All Entities.VACost                         46364.    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      .00000    
+All Entities.TotalCost                      46364.    
+All Resources.BusyCost                      46364.    
+All Resources.IdleCost                      30416.    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     76781.    
+System.TotalCost                            76781.    
+System.NumberOut                            1425.0    
+
+
+Simulation run time: 0.10 minutes.
+Simulation run complete.
