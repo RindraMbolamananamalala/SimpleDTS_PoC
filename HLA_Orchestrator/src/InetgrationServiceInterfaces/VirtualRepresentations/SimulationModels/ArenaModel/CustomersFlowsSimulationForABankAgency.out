@@ -1,4 +1,6 @@
+SIMAN Run Controller.
 
+82.840053 Minutes>
                                       ARENA Simulation Results
                                        DELL - License: STUDENT
 
@@ -67,5 +69,5 @@ System.TotalCost                            76781.
 System.NumberOut                            1425.0    
 
 
-Simulation run time: 0.10 minutes.
+Simulation run time: 0.15 minutes.
 Simulation run complete.
