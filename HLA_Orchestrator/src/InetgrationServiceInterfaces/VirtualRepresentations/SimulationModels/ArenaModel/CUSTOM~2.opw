@@ -1,0 +1,12 @@
+[RESOURCES]
+Counter
+[VARIABLES]
+DoesCustomerNeedAdditionalService.NumberOut True
+DoesCustomerNeedAdditionalService.NumberOut False
+AdditionalService.NumberOut
+AdditionalService.NumberIn
+CustomerDepartureWithoutAdditionalService.NumberOut
+CustomerDepartureAfterAdditionalService.NumberOut
+CustomersArrival.NumberOut
+CounterService.NumberOut
+CounterService.NumberIn

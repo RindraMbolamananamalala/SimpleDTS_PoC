@@ -1,0 +1,17 @@
+[ODBC]
+SQLite3 ODBC Driver
+JDConv = 0
+BigInt = 0
+LoadExt =
+OEMCP = 0
+JournalMode =
+FKSupport = 1
+NoWCHAR = 0
+NoCreat = 0
+LongNames = 1
+ShortNames = 1
+Timeout = 10000
+NoTXN = 0
+SyncPragma = NORMAL
+StepAPI = 0
+Database=C:\Users\rmbolamananamalala\OneDrive - IMT MINES ALES\MTHODE~2.0\VERYSI~1\GITREP~1\SIMPLE~1\HLA_OR~1\src\INETGR~1\VIRTUA~1\SIMULA~1\ARENAM~1\CUSTOM~2.db
